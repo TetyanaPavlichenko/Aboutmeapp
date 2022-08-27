@@ -89,7 +89,9 @@ h3 {
   max-width: 100%;
 }
 .navbar {
-  position: relative;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
