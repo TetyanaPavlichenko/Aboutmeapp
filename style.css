@@ -1,6 +1,7 @@
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
+  --third-color: #F9F7FE;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 body {
@@ -46,9 +47,10 @@ h3 {
   color: var(--secondary-color);
   border: 2px solid #6c63ff;
   margin: 20px;
-  padding: 30px;
+  padding: 15px 30px
   cursor: pointer;
-    box-shadow: var(--box-shadow);
+  box-shadow: var(--box-shadow);
+  border-radius: 6px;
 }
 
 .about-me {
@@ -94,6 +96,10 @@ h3 {
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+}
+.hello {
+  background-color: var(--third-color);
+
 }
 #contact {
   font-size: 30px;
