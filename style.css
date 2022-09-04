@@ -73,6 +73,13 @@ footer .contact-box p {
 #contact {
   margin-top: 20px;
 }
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+}
+.about-section h3 {
+  font-size: 18px;
+}
 .btn {
   font-size: 18px;
   background-color: var(--primary-color);
