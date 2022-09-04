@@ -70,13 +70,14 @@ footer .contact-box {
 footer .contact-box p {
   margin: 0;
 }
-img .myimage {
-  margin-left: 50px;
-  margin-top: 100px;
-}
 #contact {
   margin-top: 20px;
 }
+.myimage {
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
 .workpage {
   text-align: center;
 }
