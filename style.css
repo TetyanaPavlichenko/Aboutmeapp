@@ -73,12 +73,7 @@ footer .contact-box p {
 #contact {
   margin-top: 20px;
 }
-@media (max-width: 900px) {
-  .about-section {
-    text-align: center;
-    padding: 0;
-  }
-}
+
 .about-section {
   padding: 160px 20px;
 }
