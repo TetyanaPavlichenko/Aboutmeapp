@@ -73,7 +73,11 @@ footer .contact-box p {
 #contact {
   margin-top: 20px;
 }
-.workpage{
+.workpage {
+  text-align: center;
+}
+.workpage h3,
+p {
   text-align: center;
 }
 .about-section {
