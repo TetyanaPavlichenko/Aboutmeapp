@@ -169,11 +169,8 @@ p {
   padding-bottom: 0.5rem;
 }
 .hello {
-  background-color: var(--third-color);
   text-align: center;
   padding: 80px 20px;
-  display: block;
-  margin: 0;
 }
 
 #contact {
