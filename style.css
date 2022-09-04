@@ -70,6 +70,10 @@ footer .contact-box {
 footer .contact-box p {
   margin: 0;
 }
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
 #contact {
   margin-top: 20px;
 }
