@@ -33,6 +33,18 @@ h3 {
   text-align: center;
   margin: 0;
 }
+footer{
+  margin: 60 px 0;
+}
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+}
+footer .email-link:hover{
+  color: var(--primary-color)
+}
 #contact {
   margin-top: 20px;
 }
@@ -101,6 +113,7 @@ h3 {
   background-color: var(--third-color);
 
 }
+
 #contact {
   font-size: 30px;
 }
