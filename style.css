@@ -165,6 +165,8 @@ p {
 }
 .hello {
   background-color: var(--third-color);
+  box-sizing: border-box;
+  text-align: center;
 }
 
 #contact {
