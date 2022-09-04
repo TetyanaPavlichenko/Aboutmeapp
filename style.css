@@ -71,8 +71,6 @@ footer .contact-box p {
   margin: 0;
 }
 img .myimage {
-  overflow-clip-margin: content-box;
-  overflow: clip;
   margin-left: 50px;
   margin-top: 100px;
 }
