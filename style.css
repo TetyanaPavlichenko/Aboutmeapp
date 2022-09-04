@@ -73,7 +73,9 @@ footer .contact-box p {
 #contact {
   margin-top: 20px;
 }
-
+.workpage{
+  text-align: center;
+}
 .about-section {
   padding: 160px 20px;
 }
